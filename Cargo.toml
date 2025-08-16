@@ -1,0 +1,7 @@
+[workspace]
+members = ["investigator_panel","investigator_analyst", "investigator_extractor" ,"investigator_register"] 
+
+[workspace.package]
+name = "investigator"
+version = "0.0.0"
+authors = ["GrauKatze"]
