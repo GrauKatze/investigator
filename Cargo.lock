@@ -3,21 +3,21 @@
 version = 4
 
 [[package]]
-name = "investigator_analyst"
-version = "0.0.0"
-
-[[package]]
-name = "investigator_extractor"
-version = "0.0.0"
-
-[[package]]
-name = "investigator_panel"
+name = "investigator"
 version = "0.0.0"
 dependencies = [
  "investigator_analyst",
  "investigator_extractor",
  "investigator_register",
 ]
+
+[[package]]
+name = "investigator_analyst"
+version = "0.0.0"
+
+[[package]]
+name = "investigator_extractor"
+version = "0.0.0"
 
 [[package]]
 name = "investigator_register"

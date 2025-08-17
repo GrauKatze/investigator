@@ -6,3 +6,4 @@ resolver = "3"
 version = "0.0.0"
 authors = ["GrauKatze"]
 edition = '2024'
+description = "forensic tool"
