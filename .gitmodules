@@ -1,0 +1,12 @@
+[submodule "investigator_extractor"]
+	path = investigator_extractor
+	url = git@github.com:GrauKatze/investigator_extractor.git
+[submodule "investigator_analyst"]
+	path = investigator_analyst
+	url = git@github.com:GrauKatze/investigator_analyst.git
+[submodule "investigator_panel"]
+	path = investigator_panel
+	url = git@github.com:GrauKatze/investigator_panel.git
+[submodule "investigator_register"]
+	path = investigator_register
+	url = git@github.com:GrauKatze/investigator_register.git
