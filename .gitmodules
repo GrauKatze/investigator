@@ -14,3 +14,7 @@
 	path = investigator_register
 	url = git@github.com:GrauKatze/investigator_register.git
 	branch = devel
+[submodule "investigator_inspector"]
+	path = investigator_inspector
+	url = git@github.com:GrauKatze/investigator_inspector.git
+	branch = devel
