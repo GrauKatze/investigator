@@ -1,5 +1,5 @@
 [workspace]
-members = ["investigator_analyst", "investigator_extractor" ,"investigator_register","investigator_panel"] 
+members = ["investigator_analyst", "investigator_extractor" ,"investigator_register","investigator_panel", "investigator_inspector"] 
 resolver = "3"
 
 [workspace.package]
