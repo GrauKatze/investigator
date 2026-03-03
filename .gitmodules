@@ -1,20 +1,20 @@
 [submodule "investigator_extractor"]
 	path = investigator_extractor
-	url = git@github.com:GrauKatze/investigator_extractor.git
+	url = https://github.com/GrauKatze/investigator_extractor.git
 	branch = devel
 [submodule "investigator_analyst"]
 	path = investigator_analyst
-	url = git@github.com:GrauKatze/investigator_analyst.git
+	url = https://github.com/GrauKatze/investigator_analyst.git
 	branch = devel
 [submodule "investigator_panel"]
 	path = investigator_panel
-	url = git@github.com:GrauKatze/investigator_panel.git
+	url = https://github.com/GrauKatze/investigator_panel.git
 	branch = devel
 [submodule "investigator_register"]
 	path = investigator_register
-	url = git@github.com:GrauKatze/investigator_register.git
+	url = https://github.com/GrauKatze/investigator_register.git
 	branch = devel
 [submodule "investigator_inspector"]
 	path = investigator_inspector
-	url = git@github.com:GrauKatze/investigator_inspector.git
+	url = https://github.com/GrauKatze/investigator_inspector.git
 	branch = devel
